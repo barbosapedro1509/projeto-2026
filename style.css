@@ -5,3 +5,6 @@ body{
 header{
     background-color: rgb(208, 255, 0);
 }
+header div img{
+    width: 300px;
+}
