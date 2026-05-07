@@ -4,7 +4,15 @@ body{
 
 header{
     background-color: rgb(0, 0, 0);
+    text-align: center;
 }
-header div img{
+#img-ferrari{
     width: 300px;
+}
+
+
+.paragrafo{
+    text-align: ;
+    padding: 20px;
+    font-size: 20px;
 }
